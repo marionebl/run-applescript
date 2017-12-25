@@ -1,5 +1,5 @@
 {
-  "name": "run-applescript",
+  "name": "@marionebl/run-applescript",
   "version": "3.0.0",
   "description": "Run AppleScript and get the result",
   "license": "MIT",
